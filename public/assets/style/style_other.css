@@ -1,0 +1,12 @@
+.form-group{
+	margin-bottom: 2%;
+}
+.control-label{
+	margin-left: 45%;
+    margin-top: 3%;
+    font-size: 15px;
+}
+.box-header{
+	float: right;
+}
+
